@@ -53,6 +53,3 @@ streamlit run app.py
 
 If Supabase is unreachable, the app automatically falls back to reading from 'transactions.xlsx' in the project root.
 
-## Deployment
-
-Deployed on [Streamlit Community Cloud](https://share.streamlit.io/). Add your Supabase credentials as secrets in the Streamlit Cloud dashboard under **App settings → Secrets**.
